@@ -1,0 +1,1221 @@
+---
+unk: 1
+sequences:
+  - id: seq_01_nose
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: -3
+        unk3: 200
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 42
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_02_car
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 800
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 15
+        unk2: 0
+        unk3: 0
+        unk4: 20
+  - id: seq_03_donkeycong
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: -200
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 30
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 36
+        unk2: 0
+        unk3: 0
+        unk4: 65526
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 45
+        unk2: 0
+        unk3: -100
+        unk4: 10
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 53
+        unk2: 0
+        unk3: 0
+        unk4: 65526
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 61
+        unk2: 0
+        unk3: -100
+        unk4: 10
+  - id: seq_04_pacman
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 25
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_05_paper_plane
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 24
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_06_lift
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 28
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 30
+        unk2: 0
+        unk3: 0
+        unk4: 65521
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 34
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 35
+        unk2: 0
+        unk3: 0
+        unk4: 65526
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 40
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 42
+        unk2: 0
+        unk3: 0
+        unk4: 65531
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 46
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 46
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 51
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 52
+        unk2: 0
+        unk3: -100
+        unk4: 5
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 57
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_07_shoes_normal
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 1300
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_r
+        unk1: 1
+        prob: 104
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_l
+        unk1: 1
+        prob: 166
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_r
+        unk1: 1
+        prob: 234
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_l
+        unk1: 1
+        prob: 302
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_r
+        unk1: 1
+        prob: 378
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_l
+        unk1: 1
+        prob: 446
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_07_shoes_throm
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 1300
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_thorm_r
+        unk1: 1
+        prob: 104
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_thorm_l
+        unk1: 1
+        prob: 166
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_thorm_r
+        unk1: 1
+        prob: 234
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_thorm_l
+        unk1: 1
+        prob: 302
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_thorm_r
+        unk1: 1
+        prob: 378
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat207_footstep_thorm_l
+        unk1: 1
+        prob: 446
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_08_propmen
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: -3
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 12
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 18
+        unk2: 0
+        unk3: 300
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 26
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_09_sky_high
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 14
+        unk2: -5
+        unk3: 800
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 18
+        unk2: -5
+        unk3: 1200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 20
+        unk2: -2
+        unk3: 1100
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 24
+        unk2: -5
+        unk3: 1200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 26
+        unk2: -5
+        unk3: 1200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 30
+        unk2: -5
+        unk3: 1200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 32
+        unk2: -2
+        unk3: 1100
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 34
+        unk2: -5
+        unk3: 900
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 38
+        unk2: -5
+        unk3: 500
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 54
+        unk2: -5
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 64
+        unk2: -10
+        unk3: 200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 76
+        unk2: -5
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 120
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_10_seesaw
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 14
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 58
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_11_spark
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 500
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 29
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_12_water
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 300
+        unk4: 0
+      - id: se_stage_pictochat212_tap
+        unk1: 1
+        prob: 58
+        unk2: 0
+        unk3: 0
+        unk4: 10
+      - id: se_stage_pictochat212_water_loop
+        unk1: 1
+        prob: 59
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_13_tornado
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 16
+        unk2: 0
+        unk3: 100
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 47
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 48
+        unk2: 0
+        unk3: 100
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 57
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_14_blower
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 34
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 35
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 45
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 43
+        unk2: -5
+        unk3: 1200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 49
+        unk2: -5
+        unk3: 1200
+        unk4: 5
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 56
+        unk2: -5
+        unk3: 1200
+        unk4: 10
+  - id: seq_15_eye
+    unk: 1
+    sounds: []
+  - id: seq_16_pipe
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 65516
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 14
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 15
+        unk2: 0
+        unk3: 200
+        unk4: 65531
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 22
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 25
+        unk2: 0
+        unk3: 200
+        unk4: 5
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 34
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 35
+        unk2: 0
+        unk3: -200
+        unk4: 20
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 47
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 49
+        unk2: 0
+        unk3: -200
+        unk4: 15
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 58
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 60
+        unk2: 0
+        unk3: -200
+        unk4: 5
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 70
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 71
+        unk2: 0
+        unk3: -200
+        unk4: 65531
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 85
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_17_road
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 400
+        unk4: 65516
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 10
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 11
+        unk2: 0
+        unk3: 400
+        unk4: 20
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 18
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 19
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 24
+        unk2: 0
+        unk3: -300
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 27
+        unk2: 0
+        unk3: 0
+        unk4: 65526
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 38
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 40
+        unk2: -3
+        unk3: 0
+        unk4: 65531
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 49
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 50
+        unk2: -5
+        unk3: 50
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 55
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 56
+        unk2: -5
+        unk3: 50
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 61
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 62
+        unk2: -3
+        unk3: 0
+        unk4: 65531
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 72
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_18_dolphin
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat218_dolphin_out
+        unk1: 1
+        prob: 46
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat218_dolphin_voice
+        unk1: 1
+        prob: 102
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat218_dolphin_in
+        unk1: 1
+        prob: 160
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat218_dolphin_voice
+        unk1: 1
+        prob: 262
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat218_dolphin_in
+        unk1: 1
+        prob: 316
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_19_escalator
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 10
+        unk2: 0
+        unk3: 200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 24
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 37
+        unk2: 0
+        unk3: 200
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 50
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 75
+        unk2: 0
+        unk3: -400
+        unk4: 0
+      - id: se_stage_pictochat219_generator_loop
+        unk1: 1
+        prob: 76
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_20_clock
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 4
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 22
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 23
+        unk2: -5
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 26
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 28
+        unk2: -5
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 40
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 45
+        unk2: -8
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 50
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 51
+        unk2: -10
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 65
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 66
+        unk2: -12
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 81
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 82
+        unk2: -14
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 95
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 97
+        unk2: -10
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 108
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 110
+        unk2: -10
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 116
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 117
+        unk2: -10
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 130
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 133
+        unk2: -10
+        unk3: -2400
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 181
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 174
+        unk2: 0
+        unk3: 300
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 210
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 220
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 242
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat220_clock_loop
+        unk1: 1
+        prob: 243
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_21_sea_mew
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 700
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 28
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 28
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 27
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 34
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 43
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat221_amb_loop
+        unk1: 1
+        prob: 80
+        unk2: 0
+        unk3: 100
+        unk4: 0
+  - id: seq_22_half_circle
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_write_fast
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: -500
+        unk4: 0
+  - id: seq_23_paper_pen_inc
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 0
+        unk2: -3
+        unk3: 500
+        unk4: 65526
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 6
+        unk2: 0
+        unk3: 700
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 12
+        unk2: -4
+        unk3: 500
+        unk4: 5
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 18
+        unk2: 0
+        unk3: 500
+        unk4: 65531
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 28
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 34
+        unk2: 0
+        unk3: 0
+        unk4: 10
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 59
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_24_night
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: -3
+        unk3: -800
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 40
+        unk2: -8
+        unk3: -800
+        unk4: 10
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 67
+        unk2: -3
+        unk3: -600
+        unk4: 65526
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 97
+        unk2: -5
+        unk3: -400
+        unk4: 0
+  - id: seq_26_moon
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 30
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_27_guardman
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 100
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 25
+        unk2: 0
+        unk3: 800
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 30
+        unk2: 0
+        unk3: 100
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 65
+        unk2: 0
+        unk3: 0
+        unk4: 0
+  - id: seq_end_write
+    unk: 1
+    sounds:
+      - id: se_stage_pictochat2_in
+        unk1: 1
+        prob: 0
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_e_rain_loop
+        unk1: 1
+        prob: 1244
+        unk2: -6
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_e_rain_loop
+        unk1: 1
+        prob: 1304
+        unk2: -3
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_e_rain_loop
+        unk1: 1
+        prob: 1376
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: 0x00fffffffd
+        unk1: 1
+        prob: 2024
+        unk2: 0
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_02
+        unk1: 1
+        prob: 2330
+        unk2: -4
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 2342
+        unk2: -4
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_dashoff_01
+        unk1: 1
+        prob: 2391
+        unk2: -4
+        unk3: 0
+        unk4: 0
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2504
+        unk2: 0
+        unk3: 0
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2534
+        unk2: 0
+        unk3: 0
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2564
+        unk2: 0
+        unk3: -100
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2592
+        unk2: 0
+        unk3: -150
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2627
+        unk2: 0
+        unk3: -200
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2659
+        unk2: 0
+        unk3: -250
+        unk4: 65516
+      - id: se_stage_pictochat2_pen_write
+        unk1: 1
+        prob: 2694
+        unk2: 0
+        unk3: -300
+        unk4: 65516
+      - id: se_stage_pictochat2_e_delete
+        unk1: 1
+        prob: 3166
+        unk2: -4
+        unk3: -600
+        unk4: 65526
+      - id: 0x00fffffffe
+        unk1: 1
+        prob: 3600
+        unk2: 0
+        unk3: 0
+        unk4: 0
