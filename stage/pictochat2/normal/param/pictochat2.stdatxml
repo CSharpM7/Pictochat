@@ -2,8 +2,8 @@
 <struct>
   <float hash="rframe_draw_1st_wait_min">60</float>
   <float hash="rframe_draw_1st_wait_max">90</float>
-  <float hash="rframe_erase_wait_min">2100</float>
-  <float hash="rframe_erase_wait_max">3000</float>
+  <float hash="rframe_erase_wait_min">900</float>
+  <float hash="rframe_erase_wait_max">1200</float>
   <float hash="rframe_draw_wait_min">600</float>
   <float hash="rframe_draw_wait_max">900</float>
   <float hash="0x1e18f52878">10</float>
