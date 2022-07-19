@@ -576,11 +576,11 @@
     </struct>
   </list>
   <float hash="0x10122ee230">0.75</float>
-  <float hash="0x1f6de13fcf">80</float>
-  <float hash="0x1fba0a8d8e">140</float>
-  <float hash="0x1c9b97c1b2">20</float>
+  <float hash="0x1f6de13fcf">8</float>
+  <float hash="0x1fba0a8d8e">14</float>
+  <float hash="0x1c9b97c1b2">0</float>
   <bool hash="0x2634fa0fa8">true</bool>
-  <float hash="0x17c9f8dcb6">720</float>
+  <float hash="0x17c9f8dcb6">0</float>
   <list hash="0x19b99af1fd">
     <short index="0">11</short>
     <short index="1">44</short>
