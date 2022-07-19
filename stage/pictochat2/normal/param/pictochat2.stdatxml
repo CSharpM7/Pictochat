@@ -15,10 +15,10 @@
   <list hash="0x1ae8d0ec87">
     <struct index="0">
       <float hash="left_limit_x">-70</float>
-      <float hash="right_limit_x">5</float>
+      <float hash="right_limit_x">-5</float>
     </struct>
     <struct index="1">
-      <float hash="left_limit_x">-5</float>
+      <float hash="left_limit_x">5</float>
       <float hash="right_limit_x">70</float>
     </struct>
   </list>
@@ -113,13 +113,13 @@
   <float hash="0x1b54f707a7">60</float>
   <float hash="0x1880339f33">2</float>
   <float hash="0x180ebc98d0">4</float>
-  <float hash="0x18c216984e">1.25</float>
+  <float hash="0x18c216984e">0.25</float>
   <float hash="0x1b65579f1b">0.08</float>
   <float hash="0x1ec35048d7">0.005</float>
   <float hash="0x21a21c750a">0.09</float>
-  <float hash="0x1cf7054041">0.0003</float>
-  <float hash="0x18d9b647d2">0.0005</float>
-  <float hash="0x16635b0bd7">0.0008</float>
+  <float hash="0x1cf7054041">0.03</float>
+  <float hash="0x18d9b647d2">0.05</float>
+  <float hash="0x16635b0bd7">0.08</float>
   <float hash="seesaw_swing_range">0.08</float>
   <float hash="0x16dcd0998f">5</float>
   <float hash="0x172fa7a00d">2</float>
@@ -586,18 +586,18 @@
     <short index="1">440</short>
   </list>
   <list hash="0x192093a047">
-    <short index="0">70</short>
-    <short index="1">440</short>
+    <short index="0">7</short>
+    <short index="1">44</short>
   </list>
   <list hash="0x181a9721cd">
-    <short index="0">90</short>
-    <short index="1">500</short>
+    <short index="0">0</short>
+    <short index="1">5</short>
   </list>
   <list hash="0x18839e7077">
-    <short index="0">500</short>
-    <short index="1">500</short>
+    <short index="0">5</short>
+    <short index="1">5</short>
   </list>
-  <float hash="0x15d3a58fe2">120</float>
+  <float hash="0x15d3a58fe2">0</float>
   <list hash="0x17646e65d2">
     <float index="0">15</float>
     <float index="1">15</float>
