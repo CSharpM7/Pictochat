@@ -73,7 +73,7 @@
     <float hash="x">-70</float>
     <float hash="y">-400</float>
   </struct>
-  <float hash="0x18c372196e">600</float>
+  <float hash="0x18c372196e">600000</float>
   <float hash="0x141ed28149">0</float>
   <float hash="0x1422dfbe10">4</float>
   <float hash="0x170ffe59d4">-8</float>
@@ -113,7 +113,7 @@
   <float hash="0x1b54f707a7">60</float>
   <float hash="0x1880339f33">0</float>
   <float hash="0x180ebc98d0">0</float>
-  <float hash="0x18c216984e">0.25</float>
+  <float hash="0x18c216984e">0</float>
   <float hash="0x1b65579f1b">0.08</float>
   <float hash="0x1ec35048d7">0.005</float>
   <float hash="0x21a21c750a">0.09</float>

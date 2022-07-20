@@ -1,8 +1,6 @@
 
 *.xmb
 
-stage/pictochat2/normal/model/s18_pc_003donky/model.nusrcmdlb
-
 *.nuhlpb
 
 *.nusrcmdlb
@@ -12,3 +10,5 @@ stage/pictochat2/normal/model/s18_pc_003donky/model.nusrcmdlb
 *.nutexb
 
 *.png
+
+*nuhlpb.json
