@@ -4,8 +4,8 @@
   <float hash="rframe_draw_1st_wait_max">121</float>
   <float hash="rframe_erase_wait_min">700</float>
   <float hash="rframe_erase_wait_max">700</float>
-  <float hash="rframe_draw_wait_min">600</float>
-  <float hash="rframe_draw_wait_max">900</float>
+  <float hash="rframe_draw_wait_min">120</float>
+  <float hash="rframe_draw_wait_max">121</float>
   <float hash="0x1e18f52878">10</float>
   <float hash="0x1ecf1e9a39">90</float>
   <float hash="0x199349ed95">-70</float>
@@ -73,15 +73,15 @@
     <float hash="x">0</float>
     <float hash="y">35</float>
   </struct>
-  <float hash="0x18c372196e">60</float>
-  <float hash="0x141ed28149">3</float>
-  <float hash="0x1422dfbe10">4</float>
-  <float hash="0x170ffe59d4">-8</float>
-  <float hash="0x1733f3668d">8</float>
+  <float hash="0x18c372196e">60000</float>
+  <float hash="0x141ed28149">0</float>
+  <float hash="0x1422dfbe10">0</float>
+  <float hash="0x170ffe59d4">-88</float>
+  <float hash="0x1733f3668d">-80</float>
   <float hash="0x17329e7064">1</float>
   <float hash="0x170e934f3d">9</float>
-  <float hash="0x15325e3801">-6</float>
-  <float hash="0x1680ec9537">6</float>
+  <float hash="0x15325e3801">-66</float>
+  <float hash="0x1680ec9537">-60</float>
   <float hash="0x165a793fbf">7</float>
   <float hash="0x1a69c0d7a6">45</float>
   <float hash="0x20e72f5dfe">8</float>
@@ -107,13 +107,13 @@
   <float hash="0x18b1b4abd5">15</float>
   <float hash="0x17f3c117af">25</float>
   <int hash="0x1c0f718c1b">10</int>
-  <float hash="0x1a00b4c840">10</float>
+  <float hash="0x1a00b4c840">120</float>
   <float hash="0x268ca188db">8</float>
   <float hash="0x1a70d3f6a1">75</float>
   <float hash="0x1b54f707a7">60</float>
-  <float hash="0x1880339f33">0</float>
-  <float hash="0x180ebc98d0">0</float>
-  <float hash="0x18c216984e">0</float>
+  <float hash="0x1880339f33">2</float>
+  <float hash="0x180ebc98d0">2</float>
+  <float hash="0x18c216984e">2</float>
   <float hash="0x1b65579f1b">0.08</float>
   <float hash="0x1ec35048d7">0.005</float>
   <float hash="0x21a21c750a">0.09</float>
@@ -612,20 +612,20 @@
   <float hash="0x1a45629ee9">-1</float>
   <float hash="0x1a7896b744">15</float>
   <float hash="0x1cccb6e013">5</float>
-  <float hash="0x1518a1ffbc">30</float>
+  <float hash="0x1518a1ffbc">30000</float>
   <float hash="0x17d8af066b">10</float>
   <float hash="0x253d141992">8</float>
   <struct hash="star_camera_offset">
     <float hash="x">0</float>
     <float hash="y">80</float>
   </struct>
-  <float hash="0x180e39023f">60</float>
+  <float hash="0x180e39023f">6000</float>
   <float hash="0x15dbe39ddc">420</float>
-  <float hash="0x186ce6a6ec">2000</float>
-  <float hash="0x1f0bc8f27d">120</float>
+  <float hash="0x186ce6a6ec">1200</float>
+  <float hash="0x1f0bc8f27d">120000</float>
   <struct hash="moon_camera_offset">
     <float hash="x">0</float>
-    <float hash="y">80</float>
+    <float hash="y">35</float>
   </struct>
   <float hash="0x18ef57c692">60</float>
   <float hash="0x2177dd79c7">2.1</float>
