@@ -621,7 +621,7 @@
   </struct>
   <float hash="0x180e39023f">6000</float>
   <float hash="0x15dbe39ddc">420</float>
-  <float hash="0x186ce6a6ec">1200</float>
+  <float hash="0x186ce6a6ec">900</float>
   <float hash="0x1f0bc8f27d">120000</float>
   <struct hash="moon_camera_offset">
     <float hash="x">0</float>
