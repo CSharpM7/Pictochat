@@ -563,16 +563,16 @@
       <float hash="max">65</float>
     </struct>
     <struct index="1">
-      <float hash="min">55</float>
-      <float hash="max">70</float>
+      <float hash="min">550</float>
+      <float hash="max">700</float>
     </struct>
     <struct index="2">
-      <float hash="min">50</float>
-      <float hash="max">70</float>
+      <float hash="min">500</float>
+      <float hash="max">700</float>
     </struct>
     <struct index="3">
-      <float hash="min">60</float>
-      <float hash="max">75</float>
+      <float hash="min">600</float>
+      <float hash="max">750</float>
     </struct>
   </list>
   <float hash="0x10122ee230">0.75</float>
@@ -582,22 +582,22 @@
   <bool hash="0x2634fa0fa8">true</bool>
   <float hash="0x17c9f8dcb6">720</float>
   <list hash="0x19b99af1fd">
-    <short index="0">110</short>
-    <short index="1">440</short>
-  </list>
-  <list hash="0x192093a047">
-    <short index="0">7</short>
+    <short index="0">11</short>
     <short index="1">44</short>
   </list>
+  <list hash="0x192093a047">
+    <short index="0">-407</short>
+    <short index="1">-440</short>
+  </list>
   <list hash="0x181a9721cd">
-    <short index="0">0</short>
-    <short index="1">5</short>
+    <short index="0">-400</short>
+    <short index="1">-405</short>
   </list>
   <list hash="0x18839e7077">
-    <short index="0">5</short>
-    <short index="1">5</short>
+    <short index="0">-405</short>
+    <short index="1">-405</short>
   </list>
-  <float hash="0x15d3a58fe2">0</float>
+  <float hash="0x15d3a58fe2">60</float>
   <list hash="0x17646e65d2">
     <float index="0">15</float>
     <float index="1">15</float>
@@ -608,13 +608,13 @@
     <float index="6">8</float>
   </list>
   <float hash="0x153f9e117d">60</float>
-  <float hash="0x1a796fa1b0">-2</float>
-  <float hash="0x1a45629ee9">-1</float>
+  <float hash="0x1a796fa1b0">2</float>
+  <float hash="0x1a45629ee9">1</float>
   <float hash="0x1a7896b744">15</float>
   <float hash="0x1cccb6e013">5</float>
-  <float hash="0x1518a1ffbc">30000</float>
+  <float hash="0x1518a1ffbc">-90</float>
   <float hash="0x17d8af066b">10</float>
-  <float hash="0x253d141992">8</float>
+  <float hash="0x253d141992">8000000</float>
   <struct hash="star_camera_offset">
     <float hash="x">0</float>
     <float hash="y">80</float>
@@ -1448,14 +1448,14 @@
   </list>
   <list hash="0x12a800903f">
     <struct index="0">
-      <float hash="left">-43</float>
-      <float hash="right">-28</float>
+      <float hash="left">0</float>
+      <float hash="right">0</float>
       <float hash="bottom">-10</float>
       <float hash="top">21</float>
     </struct>
     <struct index="1">
-      <float hash="left">26</float>
-      <float hash="right">41</float>
+      <float hash="left">0</float>
+      <float hash="right">0</float>
       <float hash="bottom">-10</float>
       <float hash="top">18</float>
     </struct>
