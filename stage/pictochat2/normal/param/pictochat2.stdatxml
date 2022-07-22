@@ -563,41 +563,41 @@
       <float hash="max">65</float>
     </struct>
     <struct index="1">
-      <float hash="min">550</float>
-      <float hash="max">700</float>
+      <float hash="min">55</float>
+      <float hash="max">70</float>
     </struct>
     <struct index="2">
-      <float hash="min">500</float>
-      <float hash="max">700</float>
+      <float hash="min">50</float>
+      <float hash="max">70</float>
     </struct>
     <struct index="3">
-      <float hash="min">600</float>
-      <float hash="max">750</float>
+      <float hash="min">60</float>
+      <float hash="max">75</float>
     </struct>
   </list>
-  <float hash="0x10122ee230">0.75</float>
+  <float hash="0x10122ee230">5.75</float>
   <float hash="0x1f6de13fcf">80</float>
   <float hash="0x1fba0a8d8e">140</float>
   <float hash="0x1c9b97c1b2">20</float>
   <bool hash="0x2634fa0fa8">true</bool>
-  <float hash="0x17c9f8dcb6">720</float>
+  <float hash="0x17c9f8dcb6">600</float>
   <list hash="0x19b99af1fd">
     <short index="0">11</short>
     <short index="1">44</short>
   </list>
   <list hash="0x192093a047">
-    <short index="0">-407</short>
-    <short index="1">-440</short>
+    <short index="0">7</short>
+    <short index="1">40</short>
   </list>
   <list hash="0x181a9721cd">
-    <short index="0">-400</short>
-    <short index="1">-405</short>
+    <short index="0">0</short>
+    <short index="1">5</short>
   </list>
   <list hash="0x18839e7077">
-    <short index="0">-405</short>
-    <short index="1">-405</short>
+    <short index="0">5</short>
+    <short index="1">5</short>
   </list>
-  <float hash="0x15d3a58fe2">60</float>
+  <float hash="0x15d3a58fe2">120</float>
   <list hash="0x17646e65d2">
     <float index="0">15</float>
     <float index="1">15</float>
@@ -608,8 +608,8 @@
     <float index="6">8</float>
   </list>
   <float hash="0x153f9e117d">60</float>
-  <float hash="0x1a796fa1b0">2</float>
-  <float hash="0x1a45629ee9">1</float>
+  <float hash="0x1a796fa1b0">-2</float>
+  <float hash="0x1a45629ee9">-1</float>
   <float hash="0x1a7896b744">15</float>
   <float hash="0x1cccb6e013">5</float>
   <float hash="0x1518a1ffbc">-90</float>
@@ -621,7 +621,7 @@
   </struct>
   <float hash="0x180e39023f">6000</float>
   <float hash="0x15dbe39ddc">420</float>
-  <float hash="0x186ce6a6ec">900</float>
+  <float hash="0x186ce6a6ec">600</float>
   <float hash="0x1f0bc8f27d">120000</float>
   <struct hash="moon_camera_offset">
     <float hash="x">0</float>
