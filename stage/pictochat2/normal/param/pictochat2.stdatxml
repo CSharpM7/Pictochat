@@ -6,12 +6,12 @@
   <float hash="rframe_erase_wait_max">700</float>
   <float hash="rframe_draw_wait_min">120</float>
   <float hash="rframe_draw_wait_max">121</float>
-  <float hash="0x1e18f52878">10</float>
-  <float hash="0x1ecf1e9a39">90</float>
+  <float hash="0x1e18f52878">1</float>
+  <float hash="0x1ecf1e9a39">9</float>
   <float hash="0x199349ed95">-70</float>
   <float hash="0x19af44d2cc">70</float>
-  <float hash="0x1c597b31ed">2.5</float>
-  <float hash="0x1c65760eb4">5</float>
+  <float hash="0x1c597b31ed">0</float>
+  <float hash="0x1c65760eb4">0</float>
   <list hash="0x1ae8d0ec87">
     <struct index="0">
       <float hash="left_limit_x">-70</float>
@@ -24,13 +24,13 @@
   </list>
   <float hash="0x18bccc2129">2</float>
   <float hash="0x1880c11e70">7</float>
-  <float hash="0x18b2faae61">10</float>
-  <float hash="0x188ef79138">15</float>
-  <float hash="0x1f1c08ebdc">40</float>
+  <float hash="0x18b2faae61">0</float>
+  <float hash="0x188ef79138">0</float>
+  <float hash="0x1f1c08ebdc">0</float>
   <float hash="0x25baa937ac">6</float>
   <float hash="0x20a235c705">8</float>
   <float hash="0x262803bd6d">6</float>
-  <float hash="0x2078a06d8d">40</float>
+  <float hash="0x2078a06d8d">4</float>
   <float hash="0x24cd35908f">8</float>
   <list hash="0x0e97f09501">
     <struct index="0">
@@ -405,10 +405,10 @@
   </list>
   <float hash="0x14496f15ad">15</float>
   <float hash="0x16cb5f8e47">6</float>
-  <float hash="0x1f09a6de89">1800</float>
-  <float hash="0x1fde4d6cc8">4200</float>
-  <float hash="0x156d69d853">30</float>
-  <float hash="0x1616996b43">5</float>
+  <float hash="0x1f09a6de89">180</float>
+  <float hash="0x1fde4d6cc8">420</float>
+  <float hash="0x156d69d853">30000</float>
+  <float hash="0x1616996b43">50000</float>
   <float hash="0x18a915ca95">20</float>
   <float hash="0x162f053f6f">60</float>
   <float hash="0x1fd7879dcd">30</float>
@@ -587,7 +587,7 @@
   </list>
   <list hash="0x192093a047">
     <short index="0">7</short>
-    <short index="1">40</short>
+    <short index="1">44</short>
   </list>
   <list hash="0x181a9721cd">
     <short index="0">0</short>
@@ -597,7 +597,7 @@
     <short index="0">5</short>
     <short index="1">5</short>
   </list>
-  <float hash="0x15d3a58fe2">120</float>
+  <float hash="0x15d3a58fe2">1200000</float>
   <list hash="0x17646e65d2">
     <float index="0">15</float>
     <float index="1">15</float>
@@ -607,13 +607,13 @@
     <float index="5">16</float>
     <float index="6">8</float>
   </list>
-  <float hash="0x153f9e117d">60</float>
-  <float hash="0x1a796fa1b0">-2</float>
-  <float hash="0x1a45629ee9">-1</float>
-  <float hash="0x1a7896b744">15</float>
-  <float hash="0x1cccb6e013">5</float>
+  <float hash="0x153f9e117d">600000</float>
+  <float hash="0x1a796fa1b0">-200000</float>
+  <float hash="0x1a45629ee9">-10000</float>
+  <float hash="0x1a7896b744">150000</float>
+  <float hash="0x1cccb6e013">50000</float>
   <float hash="0x1518a1ffbc">-90</float>
-  <float hash="0x17d8af066b">10</float>
+  <float hash="0x17d8af066b">8000000</float>
   <float hash="0x253d141992">8000000</float>
   <struct hash="star_camera_offset">
     <float hash="x">0</float>
@@ -1448,14 +1448,14 @@
   </list>
   <list hash="0x12a800903f">
     <struct index="0">
-      <float hash="left">0</float>
-      <float hash="right">0</float>
+      <float hash="left">-43</float>
+      <float hash="right">-28</float>
       <float hash="bottom">-10</float>
       <float hash="top">21</float>
     </struct>
     <struct index="1">
-      <float hash="left">0</float>
-      <float hash="right">0</float>
+      <float hash="left">26</float>
+      <float hash="right">41</float>
       <float hash="bottom">-10</float>
       <float hash="top">18</float>
     </struct>

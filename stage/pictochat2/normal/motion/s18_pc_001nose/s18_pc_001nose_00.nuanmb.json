@@ -1,0 +1,4240 @@
+{
+  "major_version": 2,
+  "minor_version": 0,
+  "final_frame_index": 260.0,
+  "groups": [
+    {
+      "group_type": "Transform",
+      "nodes": [
+        {
+          "name": "S18_PC_001nose",
+          "tracks": [
+            {
+              "name": "Transform",
+              "scale_options": {
+                "inherit_scale": true,
+                "compensate_scale": false
+              },
+              "values": {
+                "Transform": [
+                  {
+                    "scale": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0
+                    },
+                    "rotation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 1.0
+                    },
+                    "translation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "bignose1",
+          "tracks": [
+            {
+              "name": "Transform",
+              "scale_options": {
+                "inherit_scale": true,
+                "compensate_scale": false
+              },
+              "values": {
+                "Transform": [
+                  {
+                    "scale": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0
+                    },
+                    "rotation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 1.0
+                    },
+                    "translation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": -1.0
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "bignose2",
+          "tracks": [
+            {
+              "name": "Transform",
+              "scale_options": {
+                "inherit_scale": true,
+                "compensate_scale": false
+              },
+              "values": {
+                "Transform": [
+                  {
+                    "scale": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0
+                    },
+                    "rotation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 1.0
+                    },
+                    "translation": {
+                      "x": 24.8523,
+                      "y": 18.6107,
+                      "z": -0.95
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "bignose3",
+          "tracks": [
+            {
+              "name": "Transform",
+              "scale_options": {
+                "inherit_scale": true,
+                "compensate_scale": false
+              },
+              "values": {
+                "Transform": [
+                  {
+                    "scale": {
+                      "x": 1.0,
+                      "y": 1.0,
+                      "z": 1.0
+                    },
+                    "rotation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": 0.0,
+                      "w": 1.0
+                    },
+                    "translation": {
+                      "x": 0.0,
+                      "y": 0.0,
+                      "z": -0.908637
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_type": "Visibility",
+      "nodes": [
+        {
+          "name": "bignose2",
+          "tracks": [
+            {
+              "name": "Visibility",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Boolean": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  true,
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "bignoseShape1",
+          "tracks": [
+            {
+              "name": "Visibility",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Boolean": [
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "bignoseShape3",
+          "tracks": [
+            {
+              "name": "Visibility",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Boolean": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  true,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  false
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_type": "Material",
+      "nodes": [
+        {
+          "name": "PC_001nose",
+          "tracks": [
+            {
+              "name": "CustomBoolean6",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Boolean": [
+                  false
+                ]
+              }
+            },
+            {
+              "name": "CustomBoolean7",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Boolean": [
+                  false
+                ]
+              }
+            },
+            {
+              "name": "CustomVector27",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Vector4": [
+                  {
+                    "x": 1.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CustomVector29",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Vector4": [
+                  {
+                    "x": 0.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CustomVector3",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Vector4": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CustomVector31",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Vector4": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.016129032,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.032258064,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.048387095,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.06451613,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.08064516,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.09677419,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.11290322,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.12903225,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.14516129,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.16129032,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.17741935,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.19354838,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.20967741,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.22580644,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.2580645,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.27419356,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.29032257,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.30645162,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.32258064,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.33870968,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.3548387,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.37096775,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.38709676,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.4032258,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.41935483,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.43548387,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.4516129,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.46774194,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.48387095,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.5,
+                    "w": 0.0
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CustomVector32",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Vector4": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": 0.0
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.046666663
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.06999999
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.09333333
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.13999999
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.16333333
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.21000001
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.25666666
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.28
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.32666665
+                  },
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 0.0,
+                    "w": -0.35
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CustomVector8",
+              "scale_options": {
+                "inherit_scale": false,
+                "compensate_scale": false
+              },
+              "values": {
+                "Vector4": [
+                  {
+                    "x": 1.0,
+                    "y": 1.0,
+                    "z": 1.0,
+                    "w": 1.0
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -58,22 +58,10 @@ sequences:
         unk2: 0
         unk3: -100
         unk4: 10
-      - id: se_stage_pictochat2_pen_write
-        unk1: 1
-        prob: 53
-        unk2: 0
-        unk3: 0
-        unk4: 65526
-      - id: se_stage_pictochat2_pen_write
-        unk1: 1
-        prob: 61
-        unk2: 0
-        unk3: -100
-        unk4: 10
   - id: seq_04_pacman
     unk: 1
     sounds:
-      - id: se_stage_pictochat2_pen_dashoff_01
+      - id: se_stage_pictochat220_clock_loop
         unk1: 1
         prob: 0
         unk2: 0
@@ -568,42 +556,6 @@ sequences:
         unk2: 0
         unk3: 0
         unk4: 0
-      - id: se_stage_pictochat2_pen_dashoff_01
-        unk1: 1
-        prob: 49
-        unk2: 0
-        unk3: -200
-        unk4: 15
-      - id: 0x00fffffffd
-        unk1: 1
-        prob: 58
-        unk2: 0
-        unk3: 0
-        unk4: 0
-      - id: se_stage_pictochat2_pen_dashoff_01
-        unk1: 1
-        prob: 60
-        unk2: 0
-        unk3: -200
-        unk4: 5
-      - id: 0x00fffffffd
-        unk1: 1
-        prob: 70
-        unk2: 0
-        unk3: 0
-        unk4: 0
-      - id: se_stage_pictochat2_pen_dashoff_01
-        unk1: 1
-        prob: 71
-        unk2: 0
-        unk3: -200
-        unk4: 65531
-      - id: 0x00fffffffd
-        unk1: 1
-        prob: 85
-        unk2: 0
-        unk3: 0
-        unk4: 0
   - id: seq_17_road
     unk: 1
     sounds:
@@ -756,24 +708,6 @@ sequences:
         prob: 24
         unk2: 0
         unk3: 0
-        unk4: 0
-      - id: se_stage_pictochat2_pen_write
-        unk1: 1
-        prob: 37
-        unk2: 0
-        unk3: 200
-        unk4: 0
-      - id: se_stage_pictochat2_pen_dashoff_02
-        unk1: 1
-        prob: 50
-        unk2: 0
-        unk3: 0
-        unk4: 0
-      - id: se_stage_pictochat2_pen_write
-        unk1: 1
-        prob: 75
-        unk2: 0
-        unk3: -400
         unk4: 0
       - id: se_stage_pictochat219_generator_loop
         unk1: 1
@@ -1102,7 +1036,7 @@ sequences:
         unk2: 0
         unk3: 800
         unk4: 0
-      - id: se_stage_pictochat2_pen_dashoff_01
+      - id: se_stage_pictochat220_clock_loop
         unk1: 1
         prob: 30
         unk2: 0
