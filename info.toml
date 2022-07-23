@@ -1,0 +1,9 @@
+display_name="Pictochat Deluxe"
+description="""
+Layout Edit.
+A complete overhaul of Pictochat to make it more competitive but still keep the fun, microgame-inspired mechanics of Pictochat.
+For the full list of changes, please visit https://csharpm7.github.io/stages/pictochat
+"""
+version="1"
+category="Stage"
+authors="C#"
